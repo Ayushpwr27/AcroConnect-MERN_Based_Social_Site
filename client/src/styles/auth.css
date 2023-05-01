@@ -1,14 +1,14 @@
 .auth_page{
+    background: url(https://static.vecteezy.com/system/resources/previews/004/697/688/original/curve-light-blue-background-abstract-free-vector.jpg);
     width: 100%;
     min-height: 100vh;
-    background: #eff0f4;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .auth_page form{
-    background: #eff0f4;
+    /* background: #eff0f4; */
     max-width: 400px;
     width: 100%;
     border: 1px solid #ddd;
