@@ -114,9 +114,7 @@ code {
   width: 100%;
   min-height: 100vh;
   background: #eff0f4;
-  /* background: #F1F1F1; */
-  /* background: var(--background-3);  */
-
+  /* background: url(https://static.vecteezy.com/system/resources/previews/004/697/688/original/curve-light-blue-background-abstract-free-vector.jpg); */
 }
 
 /* ! set main width here */
